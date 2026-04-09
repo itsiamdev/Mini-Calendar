@@ -10,7 +10,7 @@ A simple and elegant mini calendar web application that displays the current dat
 
 ## Live Demo
 
-Check out the live demo: [https://iam269.github.io/Mini-Calendar/](https://iam269.github.io/Mini-Calendar/)
+Check out the live demo: [https://itsiamdev.github.io/Mini-Calendar/](https://itsiamdev.github.io/Mini-Calendar/)
 
 ## Usage
 
